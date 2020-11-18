@@ -60,5 +60,3 @@ class Fake:
 
     def __repr__(self):
         return str(self.make_dict())
-
-fake = Fake()
